@@ -12,12 +12,12 @@
 3. What risk does this create?
 
 #### Ans:
-* This will create the problem of trust my file issue without git there is no record of what chnaged , who chnaged and when chnaged and if two or multiple team-mates are working on same file then without git it's hard to have a track on the actual file which is correct over so many people's working on same file who chnage what and when seems near to impossible to track and if accidentally overwritten and this casue issue in pipeline then that's another nightmare.
+* This will create the problem of trust my file issue without git there is no record of what changed , who changed and when changed and if two or multiple team-mates are working on same file then without git it's hard to have a track on the actual file which is correct over so many people's working on same file who change what and when seems near to impossible to track and if accidentally overwritten and this cause issue in pipeline then that's another nightmare.
 
 4. How would version control reduce these risks?
 
 #### Ans:
 * With version control systems like git in our local folder we can have track of our file with all modification information intaced into it.
 * Git tell what modification occured, when occured, and who commited it.
-* We can track our file easily with git 
+* We can track our file easily with git
 * This creates no confusion over which file is latest.
