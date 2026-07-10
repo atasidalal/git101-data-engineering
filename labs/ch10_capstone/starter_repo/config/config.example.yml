@@ -1,0 +1,2 @@
+input_path: data/sample/orders.csv
+output_path: outputs/order_summary.csv

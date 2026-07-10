@@ -1,0 +1,6 @@
+starter-repo/
+  README.md
+  src/customer_orders_etl/
+  sql/
+  tests/
+  data/sample/

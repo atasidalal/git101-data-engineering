@@ -1,0 +1,4 @@
+- [ ] Branch created
+- [ ] Commit message clear
+- [ ] PR opened
+- [ ] No secrets committed

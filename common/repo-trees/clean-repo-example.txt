@@ -1,0 +1,6 @@
+customer-etl/
+  README.md
+  requirements.txt
+  src/
+  tests/
+  data/sample/
