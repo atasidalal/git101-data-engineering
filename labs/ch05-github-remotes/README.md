@@ -1,3 +1,6 @@
+## Chapter 5 Practice
+Successfully configured and verified my GitHub remote tracking layout!
+
 # GitHub Remotes
 
 ## Objective
@@ -6,7 +9,7 @@ Clone, push, pull, and inspect remotes.
 
 ## Estimated time
 
-30–45 minutes.
+30–35 minutes.
 
 ## Tasks
 
