@@ -1,0 +1,14 @@
+# Secrets & Local Configurations
+bad-repo-example/env_example_bad.txt
+.env
+
+# Data Lakes & Local Operations
+bad-repo-example/data/raw/
+*.csv
+*.parquet
+
+# Local Runtime Artifacts & Environments
+logs/
+*.log
+.venv/
+__pycache__/
